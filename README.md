@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/andreu-vall-hernandez/)
+[<img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png' alt='competitive-programming'>](https://clist.by/coder/D3structor/)

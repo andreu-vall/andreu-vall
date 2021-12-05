@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreuvallhernandez&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/andreu-vall-hernandez/)
+[<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/andreu-vall/)
 [<img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png' alt='competitive-programming'>](https://clist.by/coder/D3structor/)

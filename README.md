@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I'm currently studying Computer Science and Maths at Universitat de Barcelona.
+- 🔭 I'm studying Computer Science and Maths at Universitat de Barcelona.
 - 🌱 I'm currently working on my first website, a Data Science and Web development anime related project.
 
 <p align="center">

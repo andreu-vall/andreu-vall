@@ -1,8 +1,11 @@
+<p>
+  <b>Hi there 👋, I'm Andreu Vall.</b>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreu-vall&theme=react">
+  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=andreu-vall&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=react&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
 </a>
+  </p>
 
-### Hi there 👋, I'm Andreu Vall.
+
 
 - 🔭 I'm currently studying Computer Science and Maths at Universitat de Barcelona.
 - 🌱 I'm currently working on my first website, a Data Science and Web development anime related project.
@@ -18,6 +21,7 @@
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Competitive Programming" height=48>
   </a>
 </p>
+
 
 
 <!--
@@ -39,6 +43,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreu-vall&theme=react">
+</a>
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/andreu_vall/langs)](https://githubtrends.io)
+
+
 -->
 
 

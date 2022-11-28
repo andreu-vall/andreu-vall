@@ -1,9 +1,9 @@
 <p>
   <b>Hi there 👋, I'm Andreu Vall.</b>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=andreu-vall&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=react&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-</a>
-  </p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=andreu-vall&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=react&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+  </a>
+</p>
 
 
 
@@ -21,6 +21,18 @@
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Competitive Programming" height=48>
   </a>
 </p>
+
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=andreu-vall&label=Profile%20views&color=0e75b6&style=flat" alt="xvxnoah" /> </p-->
+
+<!--p> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=andreu-vall&show_icons=true&theme=react&hide=issues">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreu-vall&theme=react">
+  </a>
+</p-->
+
 
 
 

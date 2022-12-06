@@ -1,7 +1,7 @@
 <p>
   <b>Hi there 👋, I'm Andreu Vall.</b>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=andreu-vall&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=10&theme=react&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+    <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=andreu-vall&layout=compact&hide=css,scss,ActionScript,Makefile&langs_count=16&theme=react&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
   </a>
 </p>
 
